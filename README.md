@@ -1,0 +1,2 @@
+# Python-GUI-for-Cricket-Team-System-
+A cricket club management project is designed with the motive of managing a cricket club. This software system consists of various online booking and management functionaries needed by a cricket club. It provides various options like ground bookings, member registrations, notice posting, member registration, batch registration, and more. This software system assures efficient management and maintains the functioning of a cricket club. 
